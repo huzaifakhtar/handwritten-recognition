@@ -8,8 +8,7 @@ import numpy as np
 
 
 def pred(model, img:str):
-    mod=load_model(model)
-    img=Image.open("")
-    img=np.asarray(img)
-
-    return output(img)
+    # mod=load_model(model)
+    # img=Image.open("")
+    # img=np.asarray(img)
+    output()
